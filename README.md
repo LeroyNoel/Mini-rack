@@ -1,6 +1,6 @@
 # Mini-rack
 
-<img width="520" height="592" alt="Minirack" src="https://github.com/user-attachments/assets/8a85ff31-950e-4e71-a679-3c544ed4b38c" />
+<img width="520" height="592" alt="minirack-front-2026-07-24" src="https://github.com/user-attachments/assets/ece773ea-aeae-44dd-b804-f87142195b5f" />
 
 
 Parts i used for my mini rack.
