@@ -21,9 +21,9 @@ HARDWARE
 
 Rasberry Pi 5
 
-Dell mini something
+Dell OptiPlex 7060
 
-random harddrives 
+Random harddrives 
 
 Now for the fun part. 
 
@@ -33,11 +33,11 @@ Because i do not have any fan headers inside the rack
 
 [DC5525 To SATA-Power](https://www.aliexpress.com/item/1005010336578998.html?spm=a2g0o.order_list.order_list_main.5.83bd1802DXZjXd)
 
-Coupled with a 12v 8A adapter. Unsure how this will work long term but i will find out.
+Coupled with a 12v 8A adapter. 
 
 [M.2 to 6xSATA](https://www.aliexpress.com/item/1005008295170254.html?spm=a2g0o.order_list.order_list_main.50.83bd1802DXZjXd)
 
-The DEll Mini something something only has one internal SATA port.
+The OptiPlex 7060 only has one internal SATA port. 
 
 [SATA Male to female adapter](https://www.aliexpress.com/item/1005010151565323.html?spm=a2g0o.order_list.order_list_main.55.83bd1802DXZjXd)
 
