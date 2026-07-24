@@ -1,5 +1,6 @@
 # Mini-rack
-INSERT IMAGE
+
+<img width="520" height="592" alt="Minirack" src="https://github.com/user-attachments/assets/60818340-6a78-4034-86bb-ce4ac00bc52b" />
 
 Parts i used for my mini rack.
 
