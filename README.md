@@ -32,7 +32,7 @@ Perfect fit!
             Glance
             Nginx proxy manager
 
-    Dell OptiPlex 7060
+    Dell OptiPlex 7060 Micro
         Truenas:
             Navidrome
             Immich
