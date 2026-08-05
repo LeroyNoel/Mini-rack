@@ -2,7 +2,7 @@
 
 In no small part inspired by Jeff Geerlings [Project MINI RACK](https://mini-rack.jeffgeerling.com/)
 
-<img width="520" height="592" alt="minirack-front-2026-07-24" src="https://raw.githubusercontent.com/LeroyNoel/Mini-rack-/refs/heads/main/Minirack.png?token=GHSAT0AAAAAAEBYXMG3ZFXVXCIC6LYCJJNK2TR5VVQ" />
+<img width="520" height="592" alt="minirack-front-2026-07-24" src="/Minirack.png" />
 
 
 ## Parts for the rack it self
