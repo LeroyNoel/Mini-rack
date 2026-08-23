@@ -65,3 +65,6 @@ Because i do not have any fan headers inside the rack
 
 It currently has some spare HDDs in it. Pending HDD prices to get reasonable.  
 
+
+https://www.dell.com/community/en/conversations/optiplex-desktops/optiplex-micro-as-a-low-cost-6-bay-nas/647f9a6af4ccf8a8dee0e6fb
+
