@@ -2,7 +2,9 @@
 
 In no small part inspired by Jeff Geerlings [Project MINI RACK](https://mini-rack.jeffgeerling.com/)
 
-<img width="520" height="592" alt="minirack-front-2026-07-24" src="/Minirack.png" /><img width="490" height="870" alt="minirack-front-irl" src="/Rackfront.jpg" />
+|  |  |
+| -------- | -------- |
+| <img src="Minirack.png" width="490" height="870"> | <img src="Rackfront.jpg" width="490" height="870"> |
 
 
 ## Parts list
