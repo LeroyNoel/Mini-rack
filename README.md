@@ -2,7 +2,7 @@
 
 In no small part inspired by Jeff Geerlings [Project MINI RACK](https://mini-rack.jeffgeerling.com/)
 
-<img width="520" height="592" alt="minirack-front-2026-07-24" src="/Minirack.png" /><img width="520" height="592" alt="minirack-front-irl" src="/Rackfront.jpg" />
+<img width="520" height="592" alt="minirack-front-2026-07-24" src="/Minirack.png" /><img width="490" height="870" alt="minirack-front-irl" src="/Rackfront.jpg" />
 
 
 ## Parts list
@@ -60,7 +60,7 @@ Because i do not have any fan headers inside the rack
 <img width="870" height="870" alt="minirack-front-2026-07-24" src="Optiplex.jpg/" />
 <img width="870" height="870" alt="minirack-front-2026-07-24" src="Optiplex2.jpg/" />
 
-#### The SATA cables i used was sadly not low profile enough and some modifications had to be done to make the cover fit back on.
+#### The SATA cables i used was sadly not low profile enough and some "slight" modification had to be done to make the cover fit back on.
 
 
 It currently has some spare HDDs in it. Pending HDD prices to get reasonable.  
