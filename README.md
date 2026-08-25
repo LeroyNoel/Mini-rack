@@ -57,23 +57,15 @@ Because i do not have any fan headers inside the rack
             Home assistant
 
 ## Optiplex 7060
-#### The boot drive is an old SSD i had laying around. Some smaller SSDs dont use the entire 2.5" enclosure so removing it made it possible to fit it and use the m.2 to 6xSATA adapter.
+### The boot drive is an old SSD i had laying around. Some smaller SSDs dont use the entire 2.5" enclosure so removing it made it possible to fit it and use the m.2 to 6xSATA adapter.
 
 
 |  |  |
 | -------- | -------- |
 | <img src="Optiplex.jpg" width="435" height="435"> | <img src="Optiplex3.jpg" width="490" height="870"> |
 
-
-
-
-
-
 #### The SATA cables i used was sadly not low profile enough and some "slight" modification had to be done to make the cover fit back on.
-
 
 It currently has some spare HDDs in it. Pending HDD prices to get reasonable.  
 
-
 https://www.dell.com/community/en/conversations/optiplex-desktops/optiplex-micro-as-a-low-cost-6-bay-nas/647f9a6af4ccf8a8dee0e6fb
-
